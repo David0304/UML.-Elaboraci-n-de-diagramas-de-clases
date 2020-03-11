@@ -1,0 +1,20 @@
+package umlJava;
+
+public enum Género{
+ 
+	drama;
+   
+	comedia;
+   
+	acción;
+   
+	terror;
+  
+	romance;
+ 
+	aventura;
+ 
+	sci-fi;
+ 
+	}
+
